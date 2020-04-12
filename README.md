@@ -1,5 +1,5 @@
 # CS50-2020
-answers to havard cs50 problems
+answers to harvard cs50 problems
 
 PSET0 - scratch game using MIT Scratch  
 PSET1 - C: hello (displays hello), mario (prints out mario blocks), cash (finds out the minimum amount of change)  
