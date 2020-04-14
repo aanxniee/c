@@ -9,5 +9,5 @@ PSET4 - C: filter (four filters for BMP images), recover (recovers lost JPG imag
 PSET5 - C: speller (checks for correctly spelled words in a text file)   
 PSET6 - Python: hello (displays hello), mario and mariomore (prints out mario blocks), cash (finds out the minimum amount of change),
 readability (finds the reading level of a passage), dna (identifies the owner of a dna sequence)  
-PSET7- SQL: movies (extracts data from a movie database), Python: houses (imports data from a csv file to a database and extracts data)
+PSET7- SQL: movies (different querys that extract data from a movie database), Python: houses (imports data from a csv file to a SQL database and extracts data)  
 
